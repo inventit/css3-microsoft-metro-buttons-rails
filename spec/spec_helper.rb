@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "css3/microsoft/metro/buttons/rails"
 
 RSpec.configure do |config|
