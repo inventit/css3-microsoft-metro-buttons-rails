@@ -3,7 +3,7 @@ module Css3
     module Metro
       module Buttons
         module Rails
-          VERSION = "0.1.0"
+          VERSION = "1.2.0"
         end
       end
     end
